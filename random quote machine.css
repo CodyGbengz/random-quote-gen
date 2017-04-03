@@ -1,0 +1,29 @@
+ #contentBox{
+        background-image: url('/Users/Mart/Desktop/Projekts/fcc/random quote machine/photo-1447876115475-06e10618229a.jpg');
+        height:100%;
+        width:auto;
+        padding-top:100px;
+    }
+    #quoteText{
+        color:black;
+        width:auto;
+        height:auto;
+        padding:10px;
+        margin:20px;
+        font-size: 2em;
+        
+    }
+    #authorText{
+        color:black;
+        height:100px;
+    }
+    #quotebox{
+        border:thin transparent;
+        border-radius: 3px;
+        opacity: 0.5;
+        background-color: white;
+
+    }
+    #tweeti{
+        color: dodgerblue;
+    }
